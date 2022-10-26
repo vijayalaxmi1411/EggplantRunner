@@ -23,10 +23,10 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - name: Eggplant Runner
-        uses: keysight-eggplant/eggplant-github-action@v1.0.2
+        uses: keysight-eggplant/eggplant-github-action@v1.0.3
         with:
-          serverURL: "http://localhost:8000"
-          testConfigID: "2b43fd4b-c576-4f6e-9112-7b56131459aa"
+          serverURL: "https://eggplant-partners.dai.eggplant.cloud/"
+          testConfigID: "b8f4d9d1-01c0-47c5-b1c4-155b625dbb8e"
           clientID: "client:dai:agent:integration"
-          clientSecret: "249daf3f-2a7a-4072-9b63-15f393a4ba4a"
+          clientSecret: "d3cdb576-e636-4198-b550-e4f09be44a2e"
           
