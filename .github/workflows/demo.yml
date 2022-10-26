@@ -23,7 +23,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - name: Eggplant Runner
-        uses: keysight-eggplant/eggplant-github-action@v1.0.3
+        uses: keysight-eggplant/eggplant-github-action@v1.0.4
         with:
           serverURL: "https://eggplant-partners.dai.eggplant.cloud/"
           testConfigID: "b8f4d9d1-01c0-47c5-b1c4-155b625dbb8e"
