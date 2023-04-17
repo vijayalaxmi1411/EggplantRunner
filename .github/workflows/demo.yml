@@ -26,7 +26,7 @@ jobs:
         uses: keysight-eggplant/eggplant-github-action@v1.0.5
         with:
           serverURL: "https://eggplant-partners.dai.eggplant.cloud/"
-          testConfigID: "352694a4-d91f-43e6-a789-3808b6dc1292"
+          testConfigID: "b8f4d9d1-01c0-47c5-b1c4-155b625dbb8e"
           clientID: "client:dai:api:integration:faeee81e-fc19-45ac-834b-1f9579df1e41"
           clientSecret: "VJAv1IyXhcG6TiE9wNDEpNuPg2MKbri2"
           
